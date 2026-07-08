@@ -21,7 +21,7 @@ Sitio web institucional de **Tecnalum Aberturas**, fábrica de aberturas de alum
 
 ## Dominio propio
 
-El sitio está publicado en `https://sebarivero484.github.io/tecnalum-web/`. Si más adelante comprás un dominio propio (ej. `aberturastecnalum.com`), en **Settings → Pages → Custom domain** apuntá ese dominio y activá HTTPS.
+El sitio se publica con GitHub Pages y usa el dominio propio `aberturastecnalum.com`, configurado en **Settings → Pages → Custom domain** apuntá ese dominio y activá HTTPS.
 
 > **Importante:** si finalmente se publica en OTRA dirección, hay que actualizar el dominio en tres lugares: `index.html` (etiquetas `canonical`, `og:` y el bloque JSON-LD), `robots.txt` y `sitemap.xml`.
 

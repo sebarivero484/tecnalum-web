@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sebarivero484.github.io/tecnalum-web/sitemap.xml
+Sitemap: https://aberturastecnalum.com/sitemap.xml
