@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sebarivero484.github.io/tecnalum-web/sitemap.xml
